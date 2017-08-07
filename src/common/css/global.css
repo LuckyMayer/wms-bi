@@ -1,0 +1,14 @@
+html,body,ul,li,div,p,table,h1,h2,h3,h4,h5,ol,dl,dd{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-size: 14px;
+	font-family: 'Arial','微软雅黑','宋体';
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
